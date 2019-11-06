@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatec.App", "Fatec.App\Fatec.App.csproj", "{71DE9BBC-DCF5-4176-BAC2-D3534D160BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatec.Core", "Fatec.Core\Fatec.Core.csproj", "{FB47F270-33EF-4758-A7FE-93E8F3D42F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DE9BBC-DCF5-4176-BAC2-D3534D160BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DE9BBC-DCF5-4176-BAC2-D3534D160BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DE9BBC-DCF5-4176-BAC2-D3534D160BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DE9BBC-DCF5-4176-BAC2-D3534D160BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB47F270-33EF-4758-A7FE-93E8F3D42F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB47F270-33EF-4758-A7FE-93E8F3D42F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB47F270-33EF-4758-A7FE-93E8F3D42F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB47F270-33EF-4758-A7FE-93E8F3D42F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBADC91-9143-49B1-A285-48B7A892F723}
+	EndGlobalSection
+EndGlobal
